@@ -81,6 +81,29 @@ Python-Programming
 
 ---
 
+### Day 2 — Control Flow
+
+**Concepts Implemented**
+
+- Conditional Statements (if, if-else, if-elif-else)
+- Comparison Operators (==, !=, >, <, >=, <=)
+- Logical Operators (and, or, not)
+- Nested Conditional Structures
+- Multi-branch Decision Logic
+- Short-circuit Evaluation
+- Operator Precedence in Conditions
+- Real-world Rule Implementation (Grade system, Leap year logic, Calculator logic)
+
+**Key Engineering Insights**
+
+- Control flow determines execution path based on runtime conditions.
+- Logical operators must be used instead of bitwise operators (and vs &).
+- Condition order impacts correctness and edge-case handling.
+- Python evaluates conditional blocks top-down with short-circuit behavior.
+- Clean indentation defines logical structure and execution scope.
+- Complex conditions should prioritize clarity over compactness.
+- Equality edge cases must be checked deliberately in multi-variable comparisons.
+
 
 ---
 
